@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://pbs.twimg.com/profile_banners/1188031595904720896/1594631556/1500x500)
 
 - 🔭 I’m currently working on ... Data Science projects using Python\R\SQL\Apache Spark. I also do Angular on my spare time.
 - 🌱 I’m currently learning ... Master of Science in Data Science
